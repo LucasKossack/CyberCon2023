@@ -45,3 +45,23 @@ General
 
 
 ## Incident Response
+
+### Book Resources
+
+The best guide to IR. Highly Recommend starting here: [Incident Response & Computer Forensics, Third Edition 3rd Edition](https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684/)
+
+[The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory 1st Edition](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/)
+
+[Practical Packet Analysis, 3rd Edition: Using Wireshark to Solve Real-World Network Problems 3rd Edition by Chris Sanders](https://www.amazon.com/Practical-Packet-Analysis-Wireshark-Real-World-ebook/dp/B06XX74R1X/)
+
+[Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software 1st Edition](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/)
+
+
+### Blogs
+
+[IR Investigations Scenarios Break Down](https://thedfirreport.com/)
+
+### Tooling and other resources
+[https://github.com/cugu/awesome-forensics](https://github.com/cugu/awesome-forensics)
+
+Prebuilt VM with tooling: [https://github.com/mandiant/flare-vm](https://github.com/mandiant/flare-vm)
